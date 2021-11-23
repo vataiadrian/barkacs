@@ -2,5 +2,42 @@ html{
     background: url(./img/barkacs.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
-    overflow: hidden;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 2px;
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: slategray;
+}
+
+.menu li{
+    border-bottom: 1px dashed gray;
+    display: inline-block;
+}
+
+.menu li a{
+    display: block;
+    padding: 6px 10px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 0 0 3px black;
+    cursor: pointer;
+    background-color: slategray;
+    transition: 0.6s all;
+}
+
+.menu li a:hover{
+    background-color: black;
+    transition: 0.3s all;
 }
