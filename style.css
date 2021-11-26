@@ -48,14 +48,15 @@ header{
 
 .fakepek{
     display: inline-block;
-    
 }
 
 .fakepek img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    border: solid white 3px;
 }
+
 section{
     background: rgba(255, 255, 255, 0.65);
     margin-left: 40px;
@@ -63,3 +64,18 @@ section{
     padding-left: 15px;
     padding-top: 5px;
 }
+
+div.polaroid {
+    width: 25%;
+    background-color: slategray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-radius: 25%;
+    text-align: center;
+    margin-left: 200px;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
