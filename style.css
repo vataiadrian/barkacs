@@ -55,5 +55,11 @@ header{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-
+}
+section{
+    background: rgba(255, 255, 255, 0.65);
+    margin-left: 40px;
+    margin-right: 34px;
+    padding-left: 15px;
+    padding-top: 5px;
 }
