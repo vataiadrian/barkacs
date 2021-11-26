@@ -64,6 +64,7 @@ section{
     padding-left: 15px;
     padding-top: 5px;
 }
+<<<<<<< HEAD
 
 .szerkepek{
     display: inline-block;
@@ -74,4 +75,9 @@ section{
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 80px;
+=======
+.vodor{
+    height: 80px;
+    width: 80px;
+>>>>>>> 54bcb000d2adea64b7b981971e5cf9be825cbcc6
 }
