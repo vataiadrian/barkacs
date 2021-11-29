@@ -97,3 +97,23 @@ div.container {
     width: 80px;
 }
 
+#festek{
+    border-spacing: 20px;
+}
+
+
+#festek td{
+    border: 1px solid black;
+    text-align: left;
+    width:  8%;
+
+}
+.vodord{
+    
+    padding-top: 10px ;
+    width: 50%;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
