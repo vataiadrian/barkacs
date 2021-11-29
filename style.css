@@ -89,8 +89,8 @@ div.container {
     width: 200px;
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-left: 80px;
-    margin-left: 50px;
+    margin-left: 130px;
+    border-radius: 15%;
 }
 .vodor{
     height: 80px;
