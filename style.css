@@ -74,11 +74,11 @@ div.polaroid {
     border-radius: 25%;
     text-align: center;
     margin-left: 200px;
+    padding-top: 10px;
   }
   
 div.container {
     text-align: center;
-    padding: 10px 20px;
 }
 
 .szerkepek{
@@ -117,3 +117,8 @@ div.container {
     margin-top: 10px;
     text-align: center;
 }
+#betu{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
